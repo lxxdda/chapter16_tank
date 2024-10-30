@@ -1,5 +1,5 @@
 import java.io.Serializable;
-
+//hot-fix first commit
 public class Bullet implements Serializable {
     int x;
     int y;
